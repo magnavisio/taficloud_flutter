@@ -1,7 +1,7 @@
 name: taficloud_flutter
 description: "Flutter sdk for Taficloud"
-version: 0.0.1
-homepage:
+version: 0.1.0
+homepage: https://taficloud.com
 
 environment:
   sdk: ^3.5.3

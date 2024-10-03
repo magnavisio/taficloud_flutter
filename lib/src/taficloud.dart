@@ -9,7 +9,7 @@ import 'package:http_parser/http_parser.dart';
 class Taficloud {
   final String apiKey;
 
-  static const _baseurl = 'https://dev-stash.taficloud.com/media';
+  static const _baseurl = 'https://stash.taficloud.com/media';
 
   Taficloud({required this.apiKey});
 
